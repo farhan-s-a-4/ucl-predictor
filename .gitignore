@@ -1,0 +1,26 @@
+# Environments
+.venv/
+env/
+envs/
+.conda/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+data/external/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+
+# IDEs
+.vscode/
+.idea/
